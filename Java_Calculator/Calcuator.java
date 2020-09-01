@@ -1,5 +1,3 @@
-//import java.lang.reflect.Field;
-
 import javax.swing.*;
 import java.awt.event.*;
 
